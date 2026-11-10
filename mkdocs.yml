@@ -1,0 +1,9 @@
+site_name: CairoVolt Reference Tables
+site_description: USB Power Delivery power levels and airline lithium battery Wh limits, compiled from published standards.
+site_url: ""
+nav:
+  - Home: index.md
+  - USB Power Delivery: usb-pd.md
+  - Air travel and Wh limits: air-travel-wh.md
+theme:
+  name: readthedocs
