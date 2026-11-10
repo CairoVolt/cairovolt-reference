@@ -1,0 +1,4 @@
+battery_energy_wh,typical_airline_rule_for_spare_batteries_and_power_banks,note
+up to 100,Allowed in carry-on baggage without airline approval,Not in checked baggage
+over 100 and up to 160,Allowed in carry-on only with airline approval (usually max two),Not in checked baggage
+over 160,Not allowed on passenger aircraft,Check airline and national rules
