@@ -1,0 +1,13 @@
+standard,mode,voltage_v,max_current_a,max_power_w,notes
+USB PD 3.0,SPR fixed,5,3,15,Basic USB-C profile
+USB PD 3.0,SPR fixed,9,3,27,
+USB PD 3.0,SPR fixed,15,3,45,
+USB PD 3.0,SPR fixed,20,3,60,Up to 60 W with a standard 3 A cable
+USB PD 3.0,SPR fixed,20,5,100,Requires a 5 A (e-marked) cable
+USB PD 3.1,EPR fixed,28,5,140,Extended Power Range; requires EPR cable
+USB PD 3.1,EPR fixed,36,5,180,Extended Power Range; requires EPR cable
+USB PD 3.1,EPR fixed,48,5,240,Extended Power Range; requires EPR cable
+USB PD 3.0,PPS range,3.3-5.9,3,,Programmable Power Supply; adjustable voltage in small steps
+USB PD 3.0,PPS range,3.3-11,3,,Programmable Power Supply
+USB PD 3.0,PPS range,3.3-16,3,,Programmable Power Supply
+USB PD 3.0,PPS range,3.3-21,3,,Programmable Power Supply
